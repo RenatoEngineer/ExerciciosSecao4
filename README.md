@@ -45,55 +45,82 @@
 
 [Resposta](./ExerciciosResolvidos/ex010.c)
 
-11- Escreva um programa que leia um número inteiro maior do que zero e devolva, na tela, a soma de todos os seus algarismos. Por exemplo, o número 251 corresponderá o valor 8 (2 + 5 + 1). Se o número lido não for maior do que zero, o programa terminará com a mensagem "Número Inválido".
+#### 11- Escreva um programa que leia um número inteiro maior do que zero e devolva, na tela, a soma de todos os seus algarismos. Por exemplo, o número 251 corresponderá o valor 8 (2 + 5 + 1). Se o número lido não for maior do que zero, o programa terminará com a mensagem "Número Inválido".
 
-12- Ler um número inteiro. Se o número lido for negativo, escreva a mensagem "Número Inválido". Se o número for positivo, calcular o logaritmo deste número.
+[Resposta](./ExerciciosResolvidos/ex011.c)
 
-13- Faça um algoritmo que calcule a média ponderada das notas de 3 provas. A primeira e a segunda prova têm peso 1 e a terceira tem peso 2. Ao final, mostrar a média do aluno e indicar se o aluno foi aprovado ou reprovado. A nota para a aprovação deve ser igual ou superior a 60 pontos.
+#### 12- Ler um número inteiro. Se o número lido for negativo, escreva a mensagem "Número Inválido". Se o número for positivo, calcular o logaritmo deste número.
 
-14- A nota final de um estudante é calculada a partir de três notas atribuídas entre o intervalo de 0 até 10, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas anteriormente obedece aos pesos: Trabalho de Laboratório: 2; Avaliação Semestral: 3; Exame Final: 5. De acordo com o resultado, mostre na tela se o aluno está reprovado (média entre 0 e 2.9), de recuperação (entre 3 e 4.9) ou se foi aprovado. Faça todas as verificações necessárias.
+[Resposta](./ExerciciosResolvidos/ex012.c)
 
-15- Usando switch, escreva um programa que leia um inteiro entre 1 e 7 e imprima o dia da semana correspondente a este número. Isto é, domingo se 1, segunda-feira se 2, e assim por diante.
+#### 13- Faça um algoritmo que calcule a média ponderada das notas de 3 provas. A primeira e a segunda prova têm peso 1 e a terceira tem peso 2. Ao final, mostrar a média do aluno e indicar se o aluno foi aprovado ou reprovado. A nota para a aprovação deve ser igual ou superior a 60 pontos.
 
-16- Usando switch, escreva um programa que leia um inteiro entre 1 e 12 e imprima o mês correspondente a este número. Isto é, janeiro se 1, fevereiro se 2, e assim por diante.
+[Resposta](./ExerciciosResolvidos/ex013.c)
 
-17- Faça um programa que calcule e mostre a área de um trapézio. Sabe-se que:
+#### 14- A nota final de um estudante é calculada a partir de três notas atribuídas entre o intervalo de 0 até 10, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas anteriormente obedece aos pesos: Trabalho de Laboratório: 2; Avaliação Semestral: 3; Exame Final: 5. De acordo com o resultado, mostre na tela se o aluno está reprovado (média entre 0 e 2.9), de recuperação (entre 3 e 4.9) ou se foi aprovado. Faça todas as verificações necessárias.
+
+[Resposta](./ExerciciosResolvidos/ex014.c)
+
+#### 15- Usando switch, escreva um programa que leia um inteiro entre 1 e 7 e imprima o dia da semana correspondente a este número. Isto é, domingo se 1, segunda-feira se 2, e assim por diante.
+
+[Resposta](./ExerciciosResolvidos/ex015.c)
+
+#### 16- Usando switch, escreva um programa que leia um inteiro entre 1 e 12 e imprima o mês correspondente a este número. Isto é, janeiro se 1, fevereiro se 2, e assim por diante.
+
+[Resposta](./ExerciciosResolvidos/ex016.c)
+
+#### 17- Faça um programa que calcule e mostre a área de um trapézio. Sabe-se que:
 
 A=((basemaior+basemenor)*altura)/2
 
 Lembre-se a base maior e a base menor devem ser números maiores que zero.
 
-18- Faça um programa que mostre ao usuário um menu com 4 opções de operações matemáticas (as básicas, por exemplo). O usuário escolhe uma das opções e o seu programa então pede dois valores numéricos e realiza a operação, mostrando o resultado e saindo.
+[Resposta](./ExerciciosResolvidos/ex017.c)
 
-19- Faça um programa para verificar se um determinado número inteiro é divisível por 3 ou 5, mas não simultaneamente pelos dois.
+#### 18- Faça um programa que mostre ao usuário um menu com 4 opções de operações matemáticas (as básicas, por exemplo). O usuário escolhe uma das opções e o seu programa então pede dois valores numéricos e realiza a operação, mostrando o resultado e saindo.
 
-20- Dados três valores, A, B, C, verificar se eles podem ser valores dos lados de um triângulo e, se forem, se é um triângulo escaleno, equilátero ou isóscele, considerando os seguintes conceitos:
+[Resposta](./ExerciciosResolvidos/ex018.c)
+
+#### 19- Faça um programa para verificar se um determinado número inteiro é divisível por 3 ou 5, mas não simultaneamente pelos dois.
+
+[Resposta](./ExerciciosResolvidos/ex019.c)
+
+#### 20- Dados três valores, A, B, C, verificar se eles podem ser valores dos lados de um triângulo e, se forem, se é um triângulo escaleno, equilátero ou isóscele, considerando os seguintes conceitos:
 
 * O comprimento de cada lado de um triângulo é menor do que a soma dos outros dois lados.
 * Chama-se equilátero o triângulo que tem três lados iguais.
 * Denominam-se isósceles o triângulo que tem o comprimento de dois lados iguais.
 * Recebe o nome de escaleno o triângulo que tem os três lados diferentes.
 
+[Resposta](./ExerciciosResolvidos/ex020.c)
 
-21- Escreva o menu de opções abaixo. Leia a opção do usuário e execute a operação escolhida. Escreva uma mensagem de erro se a opção for inválida.
+#### 21- Escreva o menu de opções abaixo. Leia a opção do usuário e execute a operação escolhida. Escreva uma mensagem de erro se a opção for inválida.
 
-Escolha a opção:
+*Escolha a opção:*
 1- Soma de 2 números.
 2- Diferença entre 2 números (maior pelo menor).
 3- Produto entre 2 números.
 4- Divisão entre 2 números (o denominador não pode ser zero).
 
-22- Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar. As condições para aposentadoria são:
+[Resposta](./ExerciciosResolvidos/ex021.c)
+
+#### 22- Leia a idade e o tempo de serviço de um trabalhador e escreva se ele pode ou não se aposentar. As condições para aposentadoria são:
 
 * Ter pelo menos 65 anos;
 * Ou ter trabalhado pelo menos 30 anos;
 * Ou ter pelo menos 60 anos e trabalhado pelo menos 25 anos.
 
-23- Determine se um determinado ano lido é bissexto. Sendo que um ano é bissexto se for divisível por 400 ou se for divisível por 4 e não for divisível por 100. Por exemplo: 1988, 1992, 1996.
+[Resposta](./ExerciciosResolvidos/ex022.c)
 
-24- Uma empresa vende o mesmo produto para quatro diferentes estados. Cada estado possui uma taxa diferente de imposto sobre o produto (MG 7%; SP 12%; RJ 15%; MS 8%). Faça um programa em que o usuário entre com o valor e o estado destino do produto e o programa retorne o preço final do produto acrescido do imposto do estado em que ele será vendido. Se o estado digitado não for válido, mostrar uma mensagem de erro.
+#### 23- Determine se um determinado ano lido é bissexto. Sendo que um ano é bissexto se for divisível por 400 ou se for divisível por 4 e não for divisível por 100. Por exemplo: 1988, 1992, 1996.
 
-25- Calcule as raízes da equação de 2° grau.
+[Resposta](./ExerciciosResolvidos/ex023.c)
+
+#### 24- Uma empresa vende o mesmo produto para quatro diferentes estados. Cada estado possui uma taxa diferente de imposto sobre o produto (MG 7%; SP 12%; RJ 15%; MS 8%). Faça um programa em que o usuário entre com o valor e o estado destino do produto e o programa retorne o preço final do produto acrescido do imposto do estado em que ele será vendido. Se o estado digitado não for válido, mostrar uma mensagem de erro.
+
+[Resposta](./ExerciciosResolvidos/ex024.c)
+
+#### 25- Calcule as raízes da equação de 2° grau.
 
 Lembrando que:
 
@@ -111,14 +138,18 @@ Se ∆ <0, não existe real. Imprima a mensagem "Não existe raiz".
 Se ∆ =0, existe uma raiz real. Imprima a raiz e a mensagem "Raiz única".
 Se ∆ ≥0, imprima as duas raízes reais.
 
-26- Leia a distância em Km e a quantidade de litros de gasolina consumidos por um carro em um percurso, calcule o consumo em Km/l e escreva uma mensagem de acordo com a tabela abaixo:
+[Resposta](./ExerciciosResolvidos/ex025.c)
+
+#### 26- Leia a distância em Km e a quantidade de litros de gasolina consumidos por um carro em um percurso, calcule o consumo em Km/l e escreva uma mensagem de acordo com a tabela abaixo:
 
 CONSUMO 		(Km/l)		MENSAGEM  
 menor que 	8		Venda o carro!  
 entre 		8 e 14		Econômico!  
 maior que 	12		Super Econômico!  
 
-27- Escreva um programa que, dada a idade de um nadador, classifique-o em uma das seguintes categorias:
+[Resposta](./ExerciciosResolvidos/ex026.c)
+
+#### 27- Escreva um programa que, dada a idade de um nadador, classifique-o em uma das seguintes categorias:
 
 Categoria	Idade  
 Infantil A	5 a 7  
@@ -127,7 +158,9 @@ Juvenil A	11 a 13
 Juvenil B	14 a 17  
 Sênior	maiores de 18 anos  
 
-28- Faça um programa que leia três números inteiros positivos e efetue o cálculo de uma das seguintes médias de acordo com um valor numérico digitado pelo usuário:
+[Resposta](./ExerciciosResolvidos/ex027.c)
+
+#### 28- Faça um programa que leia três números inteiros positivos e efetue o cálculo de uma das seguintes médias de acordo com um valor numérico digitado pelo usuário:
 
 (a) Geométrica:  ∛(x*y*z)
 
@@ -137,11 +170,17 @@ Sênior	maiores de 18 anos
 
 (d) Aritmética:  (x+y+z)/3
 
-29- Faça uma prova de matemática para crianças que estão aprendendo a somar números inteiros menores do que 100. Escolha números aleatórios entre 1 e 100, e mostre na tela a pergunta: Qual é a soma de a+b, onde a e b são os números aleatórios. Peça a resposta. Faça cinco perguntas ao aluno, e mostre para ele as perguntas e as respostas corretas, além de quantas vezes o aluno acertou.
+[Resposta](./ExerciciosResolvidos/ex028.c)
 
-30- Faça um programa que receba três números e mostre-os em ordem crescente.
+#### 29- Faça uma prova de matemática para crianças que estão aprendendo a somar números inteiros menores do que 100. Escolha números aleatórios entre 1 e 100, e mostre na tela a pergunta: Qual é a soma de a+b, onde a e b são os números aleatórios. Peça a resposta. Faça cinco perguntas ao aluno, e mostre para ele as perguntas e as respostas corretas, além de quantas vezes o aluno acertou.
 
-31- Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostra qual a classificação dessa pessoa.
+[Resposta](./ExerciciosResolvidos/ex029.c)
+
+#### 30- Faça um programa que receba três números e mostre-os em ordem crescente.
+
+[Resposta](./ExerciciosResolvidos/ex030.c)
+
+#### 31- Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostra qual a classificação dessa pessoa.
 
 
 Altura	                           Peso  
@@ -150,8 +189,9 @@ Menor que 1.20	  A	            D	                  G
 De 1.20 a 1.70	  B	            E	                  H  
 Maior que 1.70	  C	            F	                  I  
 
+[Resposta](./ExerciciosResolvidos/ex031.c)
 
-32- Escrever um programa que leia o código do produto escolhido do cardápio de uma lanchonete e a quantidade. O programa deve calcular o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um pedido. O cardápio da lanchonete segue o padrão abaixo:
+#### 32- Escrever um programa que leia o código do produto escolhido do cardápio de uma lanchonete e a quantidade. O programa deve calcular o valor a ser pago por aquele lanche. Considere que a cada execução somente será calculado um pedido. O cardápio da lanchonete segue o padrão abaixo:
 
 
 Especificação	    Código	Preço  
@@ -163,8 +203,9 @@ Cheeseburguer	    104	    1.70
 Suco		          105	    2.20  
 Refrigerante	    106	    1.00  
 
+[Resposta](./ExerciciosResolvidos/ex032.c)
 
-33- Um produto vai sofrer aumento de acordo com a tabela abaixo. Leia o preço antigo, calcule e escreva o preço novo, e escreva uma mensagem em função do preço novo (de acordo com a segunda tabela).
+#### 33- Um produto vai sofrer aumento de acordo com a tabela abaixo. Leia o preço antigo, calcule e escreva o preço novo, e escreva uma mensagem em função do preço novo (de acordo com a segunda tabela).
 
 PREÇO ANTIGO	  PERCENTUAL DE AUMENTO  
 até R$ 50		            5%  
@@ -178,8 +219,9 @@ entre R$ 80 e R$ 120 (inclusive)	  Normal
 entre R$ 120 e R$ 200 (inclusive)	  Caro  
 acima de R$ 200				              Muito caro  
 
+[Resposta](./ExerciciosResolvidos/ex033.c)
 
-34- Leia a nota e o número de faltas de um aluno, e escreva seu conceito. De acordo com a tabela abaixo, quando o aluno tem mais de 20 faltas ocorre uma redução de conceito.
+#### 34- Leia a nota e o número de faltas de um aluno, e escreva seu conceito. De acordo com a tabela abaixo, quando o aluno tem mais de 20 faltas ocorre uma redução de conceito.
 
 NOTA		      CONCEITO (ATÉ 20 FALTAS)	CONCEITO (MAIS DE 20 FALTAS)  
 9.0 até 10.0		          A				                	B  
@@ -188,8 +230,11 @@ NOTA		      CONCEITO (ATÉ 20 FALTAS)	CONCEITO (MAIS DE 20 FALTAS)
 4.0 até 4.9		            D					                E  
 0.0 até 3.9		            E				                	E  
 
+[Resposta](./ExerciciosResolvidos/ex034.c)
 
-35- Leia uma data e determine se ela é válida. Ou seja, verifique se o mês está entre 1 e 12, e se o dia existe naquele mês. Note que Fevereiro tem 29 dias em anos bissextos, e 28 dias em anos não bissextos.
+#### 35- Leia uma data e determine se ela é válida. Ou seja, verifique se o mês está entre 1 e 12, e se o dia existe naquele mês. Note que Fevereiro tem 29 dias em anos bissextos, e 28 dias em anos não bissextos.
+
+[Resposta](./ExerciciosResolvidos/ex035.c)
 
 36- Escreva um programa que, dado o valor da venda, imprima a comissão que deverá ser paga ao vendedor. Para calcular a comissão, considere a tabela abaixo:
 
