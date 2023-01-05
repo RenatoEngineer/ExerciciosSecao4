@@ -236,7 +236,7 @@ NOTA		      CONCEITO (ATÉ 20 FALTAS)	CONCEITO (MAIS DE 20 FALTAS)
 
 [Resposta](./ExerciciosResolvidos/ex035.c)
 
-36- Escreva um programa que, dado o valor da venda, imprima a comissão que deverá ser paga ao vendedor. Para calcular a comissão, considere a tabela abaixo:
+#### 36- Escreva um programa que, dado o valor da venda, imprima a comissão que deverá ser paga ao vendedor. Para calcular a comissão, considere a tabela abaixo:
 
 Venda mensal						                                  Comissão  
 Maior ou igual a R$ 100.000,00				                    R$ 700,00 + 16% das vendas  
@@ -246,8 +246,9 @@ Menor que R$ 60.000,00 e maior ou igual a R$ 40.000,00	  R$ 550,00 + 14% das ven
 Menor que R$ 40.000,00 e maior ou igual a R$ 20.000,00	  R$ 500,00 + 14% das vendas  
 Menor que R$ 20.000,00					                          R$ 400,00 + 14% das vendas  
 
+[Resposta](./ExerciciosResolvidos/ex036.c)
 
-37- As tarifas de certo parque de estacionamento são as seguintes:
+#### 37- As tarifas de certo parque de estacionamento são as seguintes:
 
 * 1ª e 2ª hora - R$ 1,00 cada
 * 3ª e 4ª hora - R$ 1.40 cada
@@ -255,6 +256,7 @@ Menor que R$ 20.000,00					                          R$ 400,00 + 14% das vendas
 
 O número de horas a pagar é sempre inteiro e arredondado por excesso. Deste modo, quem estacionar durante 61 minutos pagará por duas horas, que é o mesmo que pagaria se tivesse permanecido 120 minutos. Os momentos de chegada ao parque e partida deste são apresentados na forma de pares de inteiros, representando horas e minutos. Por exemplo, o par 12 50 representará "dez para a uma da tarde". Pretende-se criar um programa que, lidos pelo teclado os momentos de chegada e de partida, escreva na tela o preço cobrado pelo estacionamento. Admite-se que a chegada e a partida se dão com intervalo não superior a 24 horas. Portanto, se uma dada hora de chegada for superior à da partida, isso não é uma situação de erro, antes significará que a partida ocorreu no dia seguinte ao da chegada.
 
+[Resposta](./ExerciciosResolvidos/ex037.c)
 
 38- Leia uma data de nascimento de uma pessoa fornecida através de três números inteiros: Dia, Mês e Ano. Teste a validade desta data para saber se esta é uma data válida. Teste se o dia fornecido é um dia válido: dia > 0, dia ≤ 28 para o mês de fevereiro (29 se o ano for bissexto), dia ≤ 30 em abril, junho, setembro e novembro, dia ≤ 31 nos outros meses. Teste a validade do mês: mês > 0 e mês < 13. Teste a validade do ano: ano ≤ ano atual (use uma constante definida com o valor igual a 2008). Imprimir: “Data válida” ou “Data inválida” no final da execução do programa.
 
