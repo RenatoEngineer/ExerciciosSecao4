@@ -258,7 +258,9 @@ O número de horas a pagar é sempre inteiro e arredondado por excesso. Deste mo
 
 [Resposta](./ExerciciosResolvidos/ex037.c)
 
-38- Leia uma data de nascimento de uma pessoa fornecida através de três números inteiros: Dia, Mês e Ano. Teste a validade desta data para saber se esta é uma data válida. Teste se o dia fornecido é um dia válido: dia > 0, dia ≤ 28 para o mês de fevereiro (29 se o ano for bissexto), dia ≤ 30 em abril, junho, setembro e novembro, dia ≤ 31 nos outros meses. Teste a validade do mês: mês > 0 e mês < 13. Teste a validade do ano: ano ≤ ano atual (use uma constante definida com o valor igual a 2008). Imprimir: “Data válida” ou “Data inválida” no final da execução do programa.
+#### 38- Leia uma data de nascimento de uma pessoa fornecida através de três números inteiros: Dia, Mês e Ano. Teste a validade desta data para saber se esta é uma data válida. Teste se o dia fornecido é um dia válido: dia > 0, dia ≤ 28 para o mês de fevereiro (29 se o ano for bissexto), dia ≤ 30 em abril, junho, setembro e novembro, dia ≤ 31 nos outros meses. Teste a validade do mês: mês > 0 e mês < 13. Teste a validade do ano: ano ≤ ano atual (use uma constante definida com o valor igual a 2008). Imprimir: “Data válida” ou “Data inválida” no final da execução do programa.
+
+[Resposta](./ExerciciosResolvidos/ex038.c)
 
 39- Uma empresa decide dar um aumento aos seus funcionários de acordo com uma tabela que considera o salário atual e o tempo de serviço de cada funcionário. Os funcionários com menor salário terão um aumento proporcionalmente maior do que os funcionários com um salário maior, e conforme o tempo de serviço na empresa, cada funcionário irá receber um bônus adicional de salário. Faça um programa que leia:
 
