@@ -278,13 +278,14 @@ Acima de 2000.00	Sem reajuste		Mais de 10 anos		  500.00
 
 [Resposta](./ExerciciosResolvidos/ex039.c)
 
-40- O custo ao consumidor de um carro novo é a soma do custo de fábrica, da comissão do distribuidor, e dos impostos. A comissão e os impostos são calculados sobre o custo de fábrica, de acordo com a tabela abaixo. Leia o custo de fábrica e escreva o custo ao consumidor.
+#### 40- O custo ao consumidor de um carro novo é a soma do custo de fábrica, da comissão do distribuidor, e dos impostos. A comissão e os impostos são calculados sobre o custo de fábrica, de acordo com a tabela abaixo. Leia o custo de fábrica e escreva o custo ao consumidor.
 
 CUSTO DE FÁBRICA	              % DO DISTRIBUIDOR	  % DOS IMPOSTOS  
 até R$ 12.000,00		                     5		      isento  
 entre R$ 12.000,00 e 25.000,00	         10		      15  
 acima de R$ 25.000,00		                 15		      20  
 
+[Resposta](./ExerciciosResolvidos/ex040.c)
 
 41- Faça um algoritmo que calcule o IMC de uma pessoa e mostre sua classificação de acordo com a tabela abaixo:
 
