@@ -287,7 +287,7 @@ acima de R$ 25.000,00		                 15		      20
 
 [Resposta](./ExerciciosResolvidos/ex040.c)
 
-41- Faça um algoritmo que calcule o IMC de uma pessoa e mostre sua classificação de acordo com a tabela abaixo:
+#### 41- Faça um algoritmo que calcule o IMC de uma pessoa e mostre sua classificação de acordo com a tabela abaixo:
 
 IMC		        Classificação  
 < 18,5		    Abaixo do Peso  
@@ -296,3 +296,5 @@ IMC		        Classificação
 30,0 – 34,9	  Obesidade Grau I  
 35,0 – 39,9	  Obesidade Grau II (severa)  
 ≥ 40,0		    Obesidade Grau III (mórbida)  
+
+[Resposta](./ExerciciosResolvidos/ex041.c)
